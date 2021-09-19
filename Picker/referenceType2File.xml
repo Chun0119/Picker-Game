@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>116bc39b760728a43939cd85a0b3bfff</guid>
+    <fileName>Assets/Scripts/AudioSystem.cs</fileName>
+    <timeStamp>2021-09-20T01:54:38.8308379+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioSystem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b071a946528c4a54e8c4ebe2a7939ac7</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2021-09-20T04:22:14.7565489+08:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+      <string>GameManager+GameStatus</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>550dcf1d493c1324f8887a2d2ff18579</guid>
+    <fileName>Assets/Scripts/PickerOption.cs</fileName>
+    <timeStamp>2021-09-20T04:21:49.6060876+08:00</timeStamp>
+    <typeFullName>
+      <string>PickerOption</string>
+      <string>PickerOption+OptionChoices</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7277e728db91b54ea235bdd790da9c8</guid>
+    <fileName>Assets/Scripts/PickerStatic.cs</fileName>
+    <timeStamp>2021-09-20T04:29:13.7210786+08:00</timeStamp>
+    <typeFullName>
+      <string>PickerStatic.Randomize</string>
+      <string>PickerStatic.LocalStorage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d4e98ce999da724dabfca682f61b333</guid>
+    <fileName>Assets/Scripts/Models/ModelPlayer.cs</fileName>
+    <timeStamp>2021-09-20T01:05:58.2952148+08:00</timeStamp>
+    <typeFullName>
+      <string>ModelPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2a9f43bf585d104aa91768cc7a8d16b</guid>
+    <fileName>Assets/Scripts/ScriptableObjects/ScriptablePickerConfig.cs</fileName>
+    <timeStamp>2021-09-20T04:19:32.6920602+08:00</timeStamp>
+    <typeFullName>
+      <string>ScriptablePickerConfig</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

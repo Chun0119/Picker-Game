@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a9f43bf585d104aa91768cc7a8d16b, type: 3}
+  m_Name: PickerConfig
+  m_EditorClassIdentifier: 
+  numOfOptions: 9
+  enableCoinRewards: 1
+  coinWeighting: 0.6
+  minCoinValue: 1
+  maxCoinValue: 10
+  roundCoinAt: 1
+  enablePickerRewards: 1
+  pickerWeighting: 0.3
+  minPickerValue: 1
+  maxPickerValue: 3
+  enableEndPicker: 1
+  endPickerWeighting: 0.1
